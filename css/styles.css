@@ -3,20 +3,23 @@
     background-color:#2F4F4F;
     background-size:cover;
     margin-left:140px;
-    height:500px;
+    height:800px;
     margin-top:50px;
 }
-.one{
-    width:50%;
-    color:white;
-    margin-left:50px;
-}
+
 .cont{
     width:50%;
     color:white;
     border:10px 10px solid black;
     margin-left:200px
 
+    }
+    .one{
+        width:50%;
+        color:white;
+        margin-left:180px;
+        padding-top:30px;
+       
     }
     .two{
         font-size:50px;
