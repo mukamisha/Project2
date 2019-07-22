@@ -6,11 +6,14 @@
     height:500px;
     margin-top:50px;
 }
+.one{
+    width:50%;
+    color:white;
+}
 .cont{
-    
-    padding-top: 150px;
+    width:50%;
     color:white;
     border:10px 10px solid black;
     padding-left:100px
 
-}
+    }
