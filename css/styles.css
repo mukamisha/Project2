@@ -3,11 +3,14 @@
     background-color:#2F4F4F;
     background-size:cover;
     margin-left:140px;
-}
-.main1{
-    
-    color:white;
-    width:50%;
     height:500px;
-  
+    margin-top:50px;
+}
+.cont{
+    
+    padding-top: 150px;
+    color:white;
+    border:10px 10px solid black;
+    padding-left:100px
+
 }
