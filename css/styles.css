@@ -9,11 +9,15 @@
 .one{
     width:50%;
     color:white;
+    margin-left:50px;
 }
 .cont{
     width:50%;
     color:white;
     border:10px 10px solid black;
-    padding-left:100px
+    margin-left:200px
 
+    }
+    .two{
+        font-size:50px;
     }
