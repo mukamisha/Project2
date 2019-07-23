@@ -11,15 +11,8 @@ function myFunction() {
    var cc = Math.round((yy - 1) / 100 + 1);
    var day = Math.floor((((cc / 4) - 2 * cc - 1) + ((5 * yy / 4)) + ((26 * (mm + 1) / 10)) + dd) % 7);
 
-   if (dd < 1 || dd > 31) {
-      alert("please enter the valid date!");
-   }
-   else if (mm < 1 || mm > 12) {
-      alert("please enter the valid year!")
-   }
-   else if(mm<1 || mm>12 && dd<1 || dd>31 )
-   {
-      alert("please enter the valid date and year!")
+   if (dd < 1 || dd > 31 || mm < 1 || mm > 12) {
+      alert("please enter the valid date or year!");
    }
  
    else if (day == 0 && gg == "female") {
