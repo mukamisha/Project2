@@ -76,5 +76,7 @@ function myFunction() {
    else if (day == 6 && gg === "male") {
       document.getElementById('output').innerHTML = 'you were born on saturday and your name is Kwame';
    }
- 
+ else{
+    alert("fill all the forms before submission please!");
+ }
 }
