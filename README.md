@@ -15,4 +15,12 @@ i am going to explain how this application works:
 
 *after that, you choose your gender.
 
-*then you click submit button
+*then you click submit button.
+
+**when you don't fill the form and just submit, an alert message tells you to fill the forms first.
+###setup/Installation Requiremenets
+
+*linux Installation
+*visio studio code(vsc)
+*google Chrome
+
