@@ -3,7 +3,7 @@
 ## Description
 this is my second project at moringaschool Prep. it is an application that calculates the day someone is born.
 
-**BDD(Behaviour Driven Development):
+##BDD(Behaviour Driven Development):
 
 i am going to explain how this application works:
 
@@ -19,7 +19,7 @@ i am going to explain how this application works:
 
 **when you don't fill the form and just submit, an alert message tells you to fill the forms first.
 
-**Setup/Installation Requiremenets
+##Setup/Installation Requiremenets
 
 *linux Installation
 
@@ -27,7 +27,7 @@ i am going to explain how this application works:
 
 *google Chrome
 
-***Technologies used:
+##Technologies used:
 
 *HTML
 
