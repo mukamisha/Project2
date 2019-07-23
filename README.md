@@ -18,9 +18,21 @@ i am going to explain how this application works:
 *then you click submit button.
 
 **when you don't fill the form and just submit, an alert message tells you to fill the forms first.
+
 ###setup/Installation Requiremenets
 
 *linux Installation
+
 *visio studio code(vsc)
+
 *google Chrome
+
+***Technologies used:
+
+*HTML
+
+*CSS
+
+*JAVASCCRIPT.
+
 
